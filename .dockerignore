@@ -1,0 +1,8 @@
+tmp
+migrations
+.editorconfig
+.gitignore
+.python-version
+.travis.yml
+README.md
+*.bk
